@@ -1,2 +1,4 @@
 class person
+  def talk
+    
   
